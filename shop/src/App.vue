@@ -3,7 +3,6 @@
 
 <template>
   <div id="app">
-    <p>Hello Vue!</p>
     <v-main-wrapper></v-main-wrapper>
   </div>
 </template>
