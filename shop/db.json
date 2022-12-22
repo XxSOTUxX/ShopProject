@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "image": "1.jpg",
+      "image": "http://127.0.0.1:8080/1.jpg",
       "name": "T-shirt 1",
       "price": 2100.234234234,
       "article": "T1",
@@ -10,7 +10,7 @@
       "quantity":0
     },
     {
-      "image": "2.jpg",
+      "image": "http://127.0.0.1:8080/2.jpg",
       "name": "T-shirt 2",
       "price": 3150.12312412,
       "article": "T2",
@@ -19,7 +19,7 @@
       "quantity":0
     },
     {
-      "image": "3.jpg",
+      "image": "http://127.0.0.1:8080/3.jpg",
       "name": "T-shirt 3",
       "price": 4200.51524,
       "article": "T3",
@@ -28,7 +28,7 @@
       "quantity":0
     },
     {
-      "image": "4.jpg",
+      "image": "http://127.0.0.1:8080/4.jpg",
       "name": "T-shirt 4",
       "price": 5300.1245512,
       "article": "T4",
@@ -37,7 +37,7 @@
       "quantity":0
     },
     {
-      "image": "5.jpg",
+      "image": "http://127.0.0.1:8080/5.jpg",
       "name": "T-shirt 5",
       "price": 6500.3522314,
       "article": "T5",
@@ -46,7 +46,7 @@
       "quantity":0
     },
     {
-      "image": "6.jpeg",
+      "image": "http://127.0.0.1:8080/6.jpeg",
       "name": "T-shirt 6",
       "price": 8700.4124123,
       "article": "T6",

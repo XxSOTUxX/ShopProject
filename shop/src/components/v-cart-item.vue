@@ -1,6 +1,6 @@
 <template>
  <div class="v-cart-item">
-   <img class="v-catalog-item_image" :src="`../assets/images/${cart_item_data.image}`" alt="img">
+   <img class="v-catalog-item_image" :src="`${cart_item_data.image}`" alt="img">
    <div class="v-cart_item__info">
      <p>{{ cart_item_data.name }}</p>
      <p>{{ cart_item_data.price }}</p>

@@ -2,6 +2,7 @@
 </script>
 
 <template>
+  <link rel="icon" type="image/x-icon" href="./public/favicon.ico">
   <div id="app">
     <v-main-wrapper></v-main-wrapper>
   </div>
